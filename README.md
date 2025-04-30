@@ -4,6 +4,18 @@
 
 ###
 
+<h1 align="center">Hey there 👋 I'm Azeez Shaban</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hyazeez.Hyazeez&"  />
+</div>
+
+###
+
 <div align="center">
   <a href="https://lk.linkedin.com/in/azeez-shaban-017593272" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -18,20 +30,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hyazeez.Hyazeez&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋 I'm Azeez Shaban</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
