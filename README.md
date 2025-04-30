@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🎓 I'm a Computer Science undergraduate student at the University of Kelaniya  <br>- 📚 I'm currently diving deep into **Web Development (MERN Stack)**<br>- 🔧 Actively working on responsive websites using React.js & Node.js  <br>- 🧠 Fun fact: I make cool gift videos on my YouTube channel [Trendy Finds] - http://www.youtube.com/@trendyfinds-n6z</p>
+<p align="left">- 🎓 I'm a Computer Science undergraduate student at the University of Kelaniya  <br>- 📚 I'm currently diving deep into **Web Development (MERN Stack)**<br>- 🔧 Actively working on responsive websites using React.js & Node.js  <br>- 📫 How to reach me aszheaebzan123@@gmail.com<br>- 🧠 Fun fact: I make cool gift videos on my YouTube channel [Trendy Finds] - http://www.youtube.com/@trendyfinds-n6z</p>
 
 ###
 
