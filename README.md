@@ -1,12 +1,6 @@
 <div align="center">
-  <img height="120" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true"  />
+  <img src="github-header-image.png" alt="My Header" width="100%" />
 </div>
-
-###
-
-<h1 align="center">Hey there 👋 I'm Azeez Shaban</h1>
-
-###
 
 <br clear="both">
 
