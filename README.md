@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🎓 I'm a Computer Science undergraduate student at the University of Kelaniya  <br><br>- 📚 I'm currently diving deep into **Web Development (MERN Stack)**<br><br>- 🔧 Actively working on responsive websites using React.js & Node.js  <br><br>- 📫 How to reach me - aszheaebzan123@@gmail.com  <br><br>- 🧠 Fun fact: I make cool gift videos on my YouTube channel [Trendy Finds] - http://www.youtube.com/@trendyfinds-n6z</p><br>
+<p align="left">- 🎓 I'm a Computer Science undergraduate student at the University of Kelaniya  <br><br>- 📚 I'm currently diving deep into **Web Development (MERN Stack)**<br><br>- 🔧 Actively working on responsive websites using React.js & Node.js  <br><br>- 📫 How to reach me - aszheaebzan123@gmail.com  <br><br>- 🧠 Fun fact: I make cool gift videos on my YouTube channel [Trendy Finds] - http://www.youtube.com/@trendyfinds-n6z</p><br>
 
 <div align="center">
   <a href="https://lk.linkedin.com/in/azeez-shaban-017593272" target="_blank">
