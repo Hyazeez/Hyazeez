@@ -17,11 +17,8 @@
 <p align="left">- 🎓 I'm a Computer Science undergraduate student at the University of Kelaniya  <br><br>- 📚 I'm currently diving deep into **Web Development (MERN Stack)**<br><br>- 🔧 Actively working on responsive websites using React.js & Node.js  <br><br>- 📫 How to reach me - aszheaebzan123@gmail.com  <br><br></p><br>
 
 <div align="center">
-  <a href="https://lk.linkedin.com/in/azeez-shaban-017593272" target="_blank">
+  <a href="https://lk.linkedin.com/in/azeez-shaban" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="http://www.youtube.com/@trendyfinds-n6z" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/azeez.shaban/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
